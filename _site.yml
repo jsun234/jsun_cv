@@ -1,7 +1,7 @@
-name: OTTR Template Website
+name: Jenny Sun's Website
 output_dir: 'docs'
 navbar:
-  title: OTTR Web
+  title: Jenny Sun
   left:
   - text: ""
     href: index.html
