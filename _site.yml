@@ -6,7 +6,7 @@ navbar:
   - text: ""
     href: index.html
     icon: fa-home
-  - text: 1. Setup
+  - text: 1. Projects
     href: setup.html
   - text: 2. Hosting
     href: hosting.html
